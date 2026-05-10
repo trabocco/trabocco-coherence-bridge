@@ -10,7 +10,7 @@ Note: Zenodo Version 2.0 is the current version. The PDF interior may reference 
 
 ## Canonical Citation
 
-Trabocco, J. (2026). *The Coherence Bridge: A Cross-Substrate Principle for Energy Transfer at Material Interfaces*. Signal Literature. DOI: 10.5281/zenodo.20101553
+Trabocco, J. (2026). *The Coherence Bridge: A Cross-Substrate Principle for Energy Transfer at Material Interfaces*. Signal Literature. 10.5281/zenodo.20111493
 
 ## Description
 
