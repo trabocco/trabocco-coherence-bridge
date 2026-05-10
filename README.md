@@ -4,13 +4,13 @@ A cross-substrate framework proposing that the decisive variable in energy trans
 
 ## DOI
 
-Version 2.0 DOI: 10.5281/zenodo.20111493
+[Version 2.0 DOI](https://doi.org/10.5281/zenodo.20111493)
 
 Note: Zenodo Version 2.0 is the current version. The PDF interior may reference the prior version DOI; the record DOI above is authoritative.
 
 ## Canonical Citation
 
-Trabocco, J. (2026). *The Coherence Bridge: A Cross-Substrate Principle for Energy Transfer at Material Interfaces*. Signal Literature. 10.5281/zenodo.20111493
+Trabocco, J. (2026). *The Coherence Bridge: A Cross-Substrate Principle for Energy Transfer at Material Interfaces.* Signal Literature. https://doi.org/10.5281/zenodo.20111493
 
 ## Description
 
