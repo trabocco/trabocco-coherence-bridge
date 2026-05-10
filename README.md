@@ -4,7 +4,9 @@ A cross-substrate framework proposing that the decisive variable in energy trans
 
 ## DOI
 
-https://doi.org/10.5281/zenodo.20101553
+Version 2.0 DOI: 10.5281/zenodo.20111493
+
+Note: Zenodo Version 2.0 is the current version. The PDF interior may reference the prior version DOI; the record DOI above is authoritative.
 
 ## Canonical Citation
 
